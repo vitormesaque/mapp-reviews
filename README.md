@@ -4,3 +4,4 @@ MAPP-Reviews (Monitoring App Reviews) is a software, which (i) extracts requirem
 
 In MAPP-Reviews, we aim to detect the negative reviews of a software requirement that are starting to happen and make a forecast to see if they will become serious in the subsequent periods, i.e., high frequency in negative reviews. 
 
+[Web Crawler](https://github.com/vitormesaque/mapp-reviews/blob/d200f450d8939cbc86c0ec07f70cd83fb2671a2f/Mapp_Reviews_Web_Crawler.ipynb)
