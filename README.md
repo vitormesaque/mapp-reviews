@@ -17,7 +17,7 @@ MAPP-Reviews uses the k-means algorithm to obtain a clustering model of semantic
 * [Requirement Clustering (Notebook)](https://github.com/vitormesaque/mapp-reviews/blob/9813cbdf3e7358e6ed85d70b5d6d730cb1e8144f/Requirement_Clustering.ipynb)
 
 
-# Requiremenst Time Series and Predictive Model
+# Requirements Time Series and Predictive Model
 MAPP-Reviews uses the Prophet Forecasting Model. Prophet is a model from Facebook researchers for forecasting time series data considering non-linear trends at different time intervals, such as yearly, weekly, and daily seasonality.
 * [Requiremenst Time Series and Predictive Model (Notebook)](https://github.com/vitormesaque/mapp-reviews/blob/bfcd5b5f19ea63c9d9670bbc2914c4eac3f28138/Time_Series_by_Week_and_App_Changepoints.ipynb)
 
