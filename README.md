@@ -26,4 +26,3 @@ MAPP-Reviews uses the Prophet Forecasting Model. Prophet is a model from Faceboo
 
 * [RE-BERT](https://github.com/adailtonaraujo/RE-BERT)
 * [Prophet](https://github.com/facebook/prophet)
-
