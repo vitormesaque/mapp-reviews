@@ -10,7 +10,7 @@ In MAPP-Reviews, we aim to detect the negative reviews of a software requirement
 
 # Requirement Extraction
 MAPP-Reviews uses the pre-trained RE-BERT model to extract software requirements from app reviews. RE-BERT uses a cross-domain training strategy, where the model was trained in 7 apps and tested in one unknown app for the test step.
-* [Requirement Extraction (Notebook)](https://github.com/vitormesaque/mapp-reviews/blob/629f2e7f38a05d6070dbd48a1a1915c3a9a80679/Requirement_Extraction_RE-BERT.ipynb)
+* [Requirement Extraction (Notebook)](https://github.com/vitormesaque/mapp-reviews/blob/bbcb5b519f221b867202330b2d10dde197563b42/MAPP_Reviews_Requirement_Extraction_RE_BERT.ipynb)
 
 # Requirement Clustering
 MAPP-Reviews uses the k-means algorithm to obtain a clustering model of semantically similar software requirements.
